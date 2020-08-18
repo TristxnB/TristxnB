@@ -1,4 +1,4 @@
--Salut toi 
+## Salut toi 👋
 
 [![Falkos's github stats](https://github-readme-stats.vercel.app/api?username=Falkos1)](https://github.com/anuraghazra/github-readme-stats)
 
