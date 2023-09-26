@@ -1,7 +1,5 @@
 ## Salut toi 👋
 
-[![Falkos's github stats](https://github-readme-stats.vercel.app/api?username=TristxnB)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristxnB)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
